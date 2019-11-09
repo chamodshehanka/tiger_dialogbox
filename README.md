@@ -1,6 +1,6 @@
 # tiger_dialogbox
 
-A new Flutter package project.
+Still beta 
 
 ## Getting Started
 

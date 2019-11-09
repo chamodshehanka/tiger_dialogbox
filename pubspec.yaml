@@ -1,7 +1,7 @@
 name: tiger_dialogbox
-description: A new Flutter package project.
+description: Animated Customizable Dialog Box.
 version: 0.0.1
-author:
+author: Chamod Shehanka Perera <hcsperera@gmail.com>
 homepage: https://github.com/Shehanka/tiger_dialogbox
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flare_flutter: ^1.5.8
 
 dev_dependencies:
   flutter_test:

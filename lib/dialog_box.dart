@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:studymate/widgets/TigerWidget.dart';
+// import 'package:studymate/widgets/TigerWidget.dart';
 
 class StudymateDialogBox extends StatelessWidget {
   final String title;
@@ -87,9 +87,9 @@ class StudymateDialogBox extends StatelessWidget {
               ),
             ),
             Container(
-              child: TigerWidget(
-                animation: tigerAnimationType,
-              ),
+              // child: TigerWidget(
+              //   animation: tigerAnimationType,
+              // ),
             ),
             SizedBox(height: 16.0),
             Text(
